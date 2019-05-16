@@ -1,0 +1,6 @@
+D:\OOP C#\ACM\ACM.BL\bin\Debug\ACM.BL.dll
+D:\OOP C#\ACM\ACM.BL\bin\Debug\ACM.BL.pdb
+D:\OOP C#\ACM\ACM.BL\obj\Debug\ACM.BL.csprojAssemblyReference.cache
+D:\OOP C#\ACM\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+D:\OOP C#\ACM\ACM.BL\obj\Debug\ACM.BL.dll
+D:\OOP C#\ACM\ACM.BL\obj\Debug\ACM.BL.pdb
